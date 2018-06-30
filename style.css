@@ -1,0 +1,29 @@
+body {
+  background-color: #096358;
+}
+
+h1, li, a {
+  color: white;
+  font-family: Calibri, Arial;
+}
+
+img {
+  height: 400px;
+}
+
+header img {
+  height: 100px;
+}
+
+main img {
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+  border: 10px solid black;
+  margin: 15px;
+  padding: 20px;
+}
+
+#charlotte {
+  border: 4px dashed green;
+}
